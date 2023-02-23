@@ -1,3 +1,28 @@
 .App {
   text-align: center;
 }
+body {
+  background-image: url('./images/background.png');
+
+}
+
+.header {
+  border: 1px solid white;
+  border-radius: 50%;
+  position: absolute;
+  width: 120.07px;
+  height: 307.45px;
+  left: 745.73px;
+  top: 35.92px;
+  transform: matrix(0.58, 0.78, -0.87, 0.56, 0, 0);
+}
+
+.header header {
+  color: white;
+  position: absolute;
+  width: 451.85px;
+  height: 50.63px;
+  left: 412.69px;
+  top: 142.98px; 
+  text-align: center;
+}
